@@ -2,7 +2,7 @@
 
 
 
-- 🔭 I’m currently working on courses on the [![Ivan on Tech Academy][website]!
+- 🔭 I’m currently working on courses on the [Ivan on Tech Academy]: https://academy.ivanontech.com/
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: contribute to Open Source projects
@@ -33,4 +33,3 @@
 
 
 </details>
-[website]: https://academy.ivanontech.com/
