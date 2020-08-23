@@ -2,8 +2,8 @@
 
 
 
-- 🔭 I’m currently working on courses on the [Ivan on Tech Academy]: https://academy.ivanontech.com/
-- 🌱 I’m currently learning everything 🤣
+- 🔭 I’m currently learning in the courses at [Ivan on Tech Academy]: https://academy.ivanontech.com/
+- 🌱 I’m currently learning everything I can about coding and blockchain 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: contribute to Open Source projects
 - ⚡ Fun fact: I love to play boardgames and wargames
