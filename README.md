@@ -7,12 +7,9 @@ Here are some ideas to get you started:
 
 ### Hi there, I'm Steve  👋
 
-[![Website]
-[![Twitter Follow]
-
 ## I'm  .........
 
-- 🔭 I’m currently working on a [Course][website]!
+- 🔭 I’m currently working on
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: contribute to Open Source projects
@@ -51,13 +48,3 @@ Here are some ideas to get you started:
 
 
 </details>
-
-[website]:
-[twitter]: https://twitter.com/
-[youtube]: https://youtube.com/
-[instagram]: https://instagram.com/
-[linkedin]: https://linkedin.com/in/
-[webdevplaylist]:
-[jsplaylist]:
-[cssplaylist]:
-[reactplaylist]:
