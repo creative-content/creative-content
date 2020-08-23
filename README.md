@@ -1,15 +1,6 @@
-### Hi there 👋
-
-
-**creative-content/creative-content** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 ### Hi there, I'm Steve  👋
 
-## I'm  .........
-
-- 🔭 I’m currently working on
+- 🔭 I’m currently working on Ivan on Tech Academy courses
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: contribute to Open Source projects
@@ -24,12 +15,7 @@ Here are some ideas to get you started:
 [<img align="left" alt="" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />]
 [<img align="left" alt="" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />]
 
-<br />
 
-### Languages and Tools:
-
-<br />
-<br />
 
 ---
 
