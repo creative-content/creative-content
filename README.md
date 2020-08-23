@@ -1,6 +1,8 @@
 ### Hi there, I'm Steve  👋
 
-- 🔭 I’m currently working on Ivan on Tech Academy courses
+[![Website](https://academy.ivanontech.com/)]
+
+- 🔭 I’m currently working on [Ivan on Tech Course][website]!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: contribute to Open Source projects
@@ -14,9 +16,6 @@
 [<img align="left" alt="" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />]
 [<img align="left" alt="" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />]
 [<img align="left" alt="" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />]
-
-
-
 ---
 
 <details>
